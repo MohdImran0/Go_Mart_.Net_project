@@ -1,0 +1,17 @@
+D:\PuneProject\GoMart\GoMart\bin\Debug\GoMart.exe.config
+D:\PuneProject\GoMart\GoMart\bin\Debug\GoMart.exe
+D:\PuneProject\GoMart\GoMart\bin\Debug\GoMart.pdb
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.csproj.AssemblyReference.cache
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.AboutBox1.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.AddAdmin.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.AddProduct.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.Form1.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.frmAddNewSeller.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.frmCategory.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.frmMain.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.Properties.Resources.resources
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.csproj.GenerateResource.cache
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.csproj.CoreCompileInputs.cache
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.exe
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.pdb
+D:\PuneProject\GoMart\GoMart\obj\Debug\GoMart.SellingForm.resources
